@@ -1,3 +1,0 @@
-Change value of epsilon and minimumpoints to cluster which you want.
-The orange point was clustered, the green point is noise.
-Link data: https://www.kaggle.com/caganseval/earthquake
